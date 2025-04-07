@@ -42,9 +42,10 @@ Backend
 1. Clone the repository
    
    git clone https://github.com/your-username/Express60.git
+   
    cd Express60
 
-2. Install Python dependencies
+3. Install Python dependencies
 pip install flask newspaper3k nltk
 
 3.Add your NewsAPI key
