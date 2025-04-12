@@ -41,7 +41,7 @@ Backend
 
 1. Clone the repository
    
-   git clone https://github.com/your-username/Express60.git
+   git clone https://github.com/Amrutha-K-2004/Express60.git
    
    cd Express60
 
